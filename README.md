@@ -11,7 +11,7 @@ Built with the tech stack recommended on the task page:
 - **Database:** MongoDB (via Mongoose)
 - **Auth:** JWT (JSON Web Tokens) + bcrypt password hashing
 - 
-GitHub repo: `https://github.com/Karthik-Kumar-812/Mini-crm`
+GitHub repo: (https://github.com/Karthik-Kumar-812/Mini-crm)
 
 ---
 
