@@ -10,9 +10,8 @@ Built with the tech stack recommended on the task page:
 - **Backend:** Node.js + Express.js (REST API)
 - **Database:** MongoDB (via Mongoose)
 - **Auth:** JWT (JSON Web Tokens) + bcrypt password hashing
-
-Live demo: `[ADD YOUR DEPLOYED LINK HERE]`
-GitHub repo: `[ADD YOUR REPO LINK HERE]`
+- 
+GitHub repo: `(https://github.com/Karthik-Kumar-812/Mini-crm.git)`
 
 ---
 
